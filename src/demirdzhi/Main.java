@@ -6,7 +6,6 @@ import demirdzhi.animals.pets.Cat;
 import demirdzhi.animals.pets.Dog;
 import demirdzhi.data.Command;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
