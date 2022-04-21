@@ -1,10 +1,10 @@
 package demirdzhi.animals;
 
 public abstract class Animal {
-    String name;
-    int age;
-    int weight;
-    String color;
+    private String name;
+    private int age;
+    private int weight;
+    private String color;
 
     public String getName() {
         return name;
